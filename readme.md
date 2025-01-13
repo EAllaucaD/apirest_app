@@ -17,7 +17,7 @@ This project is a practice of how to use Rest API.
 
 ## 🛠️ Tools Used
 
-JavaScript
+**JavaScript**
 
 ## 📋 Prerequisites
 
@@ -32,7 +32,7 @@ Before you begin, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git 
+git clone https://github.com/EAllaucaD/apirest_app.git
 ```
 ### 2. Commands
 
