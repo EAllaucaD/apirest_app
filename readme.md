@@ -12,7 +12,7 @@
 
 ## 📖 About the Project
 
-This project is a practice of how to use Rest API.
+This is a project about using Rest APIs using the JavaScript programming language. It shows the different English football teams and allows you to display the teams, add or remove a team.
 
 
 ## 🛠️ Tools Used
